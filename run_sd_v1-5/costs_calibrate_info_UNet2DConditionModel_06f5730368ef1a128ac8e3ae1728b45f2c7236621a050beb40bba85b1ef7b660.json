@@ -1,0 +1,848 @@
+{
+    "conv_in": {
+        "compute_density": 70.76618295280075
+    },
+    "time_embedding.linear_1": {
+        "compute_density": 3.9689922480620154
+    },
+    "time_embedding.linear_2": {
+        "compute_density": 3.987538940809969
+    },
+    "down_blocks.0.attentions.0.proj_in": {
+        "compute_density": 308.83404255319147
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.attn1.to_q": {
+        "compute_density": 313.86973180076626
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.attn1.to_k": {
+        "compute_density": 313.86973180076626
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.attn1.to_v": {
+        "compute_density": 313.86973180076626
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.attn1.to_out.0": {
+        "compute_density": 313.86973180076626
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.attn2.to_q": {
+        "compute_density": 313.86973180076626
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.attn2.to_k": {
+        "compute_density": 183.1402911117993
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.attn2.to_v": {
+        "compute_density": 183.1402911117993
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.attn2.to_out.0": {
+        "compute_density": 313.86973180076626
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.ff.net.0.proj": {
+        "compute_density": 549.7986577181208
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.ff.net.2": {
+        "compute_density": 496.4848484848485
+    },
+    "down_blocks.0.attentions.0.proj_out": {
+        "compute_density": 308.83404255319147
+    },
+    "down_blocks.0.attentions.1.proj_in": {
+        "compute_density": 308.83404255319147
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.attn1.to_q": {
+        "compute_density": 313.86973180076626
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.attn1.to_k": {
+        "compute_density": 313.86973180076626
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.attn1.to_v": {
+        "compute_density": 313.86973180076626
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.attn1.to_out.0": {
+        "compute_density": 313.86973180076626
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.attn2.to_q": {
+        "compute_density": 313.86973180076626
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.attn2.to_k": {
+        "compute_density": 183.1402911117993
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.attn2.to_v": {
+        "compute_density": 183.1402911117993
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.attn2.to_out.0": {
+        "compute_density": 313.86973180076626
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.ff.net.0.proj": {
+        "compute_density": 549.7986577181208
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.ff.net.2": {
+        "compute_density": 496.4848484848485
+    },
+    "down_blocks.0.attentions.1.proj_out": {
+        "compute_density": 308.83404255319147
+    },
+    "down_blocks.0.resnets.0.conv1": {
+        "compute_density": 2405.201472908995
+    },
+    "down_blocks.0.resnets.0.time_emb_proj": {
+        "compute_density": 3.9689922480620154
+    },
+    "down_blocks.0.resnets.0.conv2": {
+        "compute_density": 2405.201472908995
+    },
+    "down_blocks.0.resnets.1.conv1": {
+        "compute_density": 2405.201472908995
+    },
+    "down_blocks.0.resnets.1.time_emb_proj": {
+        "compute_density": 3.9689922480620154
+    },
+    "down_blocks.0.resnets.1.conv2": {
+        "compute_density": 2405.201472908995
+    },
+    "down_blocks.0.downsamplers.0.conv": {
+        "compute_density": 899.1219512195122
+    },
+    "down_blocks.1.attentions.0.proj_in": {
+        "compute_density": 533.6572668112798
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.attn1.to_q": {
+        "compute_density": 553.5135135135135
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.attn1.to_k": {
+        "compute_density": 553.5135135135135
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.attn1.to_v": {
+        "compute_density": 553.5135135135135
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.attn1.to_out.0": {
+        "compute_density": 553.5135135135135
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.attn2.to_q": {
+        "compute_density": 553.5135135135135
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.attn2.to_k": {
+        "compute_density": 213.71882905674016
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.attn2.to_v": {
+        "compute_density": 213.71882905674016
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.attn2.to_out.0": {
+        "compute_density": 553.5135135135135
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.ff.net.0.proj": {
+        "compute_density": 890.4347826086956
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.ff.net.2": {
+        "compute_density": 819.2
+    },
+    "down_blocks.1.attentions.0.proj_out": {
+        "compute_density": 533.6572668112798
+    },
+    "down_blocks.1.attentions.1.proj_in": {
+        "compute_density": 533.6572668112798
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.attn1.to_q": {
+        "compute_density": 553.5135135135135
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.attn1.to_k": {
+        "compute_density": 553.5135135135135
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.attn1.to_v": {
+        "compute_density": 553.5135135135135
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.attn1.to_out.0": {
+        "compute_density": 553.5135135135135
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.attn2.to_q": {
+        "compute_density": 553.5135135135135
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.attn2.to_k": {
+        "compute_density": 213.71882905674016
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.attn2.to_v": {
+        "compute_density": 213.71882905674016
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.attn2.to_out.0": {
+        "compute_density": 553.5135135135135
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.ff.net.0.proj": {
+        "compute_density": 890.4347826086956
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.ff.net.2": {
+        "compute_density": 819.2
+    },
+    "down_blocks.1.attentions.1.proj_out": {
+        "compute_density": 533.6572668112798
+    },
+    "down_blocks.1.resnets.0.conv1": {
+        "compute_density": 1900.226570545829
+    },
+    "down_blocks.1.resnets.0.time_emb_proj": {
+        "compute_density": 3.981337480559876
+    },
+    "down_blocks.1.resnets.0.conv2": {
+        "compute_density": 2275.584789311408
+    },
+    "down_blocks.1.resnets.0.conv_shortcut": {
+        "compute_density": 376.6319657072872
+    },
+    "down_blocks.1.resnets.1.conv1": {
+        "compute_density": 2275.584789311408
+    },
+    "down_blocks.1.resnets.1.time_emb_proj": {
+        "compute_density": 3.981337480559876
+    },
+    "down_blocks.1.resnets.1.conv2": {
+        "compute_density": 2275.584789311408
+    },
+    "down_blocks.1.downsamplers.0.conv": {
+        "compute_density": 708.9230769230769
+    },
+    "down_blocks.2.attentions.0.proj_in": {
+        "compute_density": 513.8269402319357
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.attn1.to_q": {
+        "compute_density": 568.8888888888889
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.attn1.to_k": {
+        "compute_density": 568.8888888888889
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.attn1.to_v": {
+        "compute_density": 568.8888888888889
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.attn1.to_out.0": {
+        "compute_density": 568.8888888888889
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.attn2.to_q": {
+        "compute_density": 568.8888888888889
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.attn2.to_k": {
+        "compute_density": 233.18611987381703
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.attn2.to_v": {
+        "compute_density": 233.18611987381703
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.attn2.to_out.0": {
+        "compute_density": 568.8888888888889
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.ff.net.0.proj": {
+        "compute_density": 706.2068965517242
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.ff.net.2": {
+        "compute_density": 682.6666666666666
+    },
+    "down_blocks.2.attentions.0.proj_out": {
+        "compute_density": 513.8269402319357
+    },
+    "down_blocks.2.attentions.1.proj_in": {
+        "compute_density": 513.8269402319357
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.attn1.to_q": {
+        "compute_density": 568.8888888888889
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.attn1.to_k": {
+        "compute_density": 568.8888888888889
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.attn1.to_v": {
+        "compute_density": 568.8888888888889
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.attn1.to_out.0": {
+        "compute_density": 568.8888888888889
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.attn2.to_q": {
+        "compute_density": 568.8888888888889
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.attn2.to_k": {
+        "compute_density": 233.18611987381703
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.attn2.to_v": {
+        "compute_density": 233.18611987381703
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.attn2.to_out.0": {
+        "compute_density": 568.8888888888889
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.ff.net.0.proj": {
+        "compute_density": 706.2068965517242
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.ff.net.2": {
+        "compute_density": 682.6666666666666
+    },
+    "down_blocks.2.attentions.1.proj_out": {
+        "compute_density": 513.8269402319357
+    },
+    "down_blocks.2.resnets.0.conv1": {
+        "compute_density": 801.7321373337458
+    },
+    "down_blocks.2.resnets.0.time_emb_proj": {
+        "compute_density": 3.987538940809969
+    },
+    "down_blocks.2.resnets.0.conv2": {
+        "compute_density": 830.6361160070502
+    },
+    "down_blocks.2.resnets.0.conv_shortcut": {
+        "compute_density": 427.93462109955425
+    },
+    "down_blocks.2.resnets.1.conv1": {
+        "compute_density": 830.6361160070502
+    },
+    "down_blocks.2.resnets.1.time_emb_proj": {
+        "compute_density": 3.987538940809969
+    },
+    "down_blocks.2.resnets.1.conv2": {
+        "compute_density": 830.6361160070502
+    },
+    "down_blocks.2.downsamplers.0.conv": {
+        "compute_density": 242.52631578947367
+    },
+    "down_blocks.3.resnets.0.conv1": {
+        "compute_density": 192.22884386174016
+    },
+    "down_blocks.3.resnets.0.time_emb_proj": {
+        "compute_density": 3.987538940809969
+    },
+    "down_blocks.3.resnets.0.conv2": {
+        "compute_density": 192.22884386174016
+    },
+    "down_blocks.3.resnets.1.conv1": {
+        "compute_density": 192.22884386174016
+    },
+    "down_blocks.3.resnets.1.time_emb_proj": {
+        "compute_density": 3.987538940809969
+    },
+    "down_blocks.3.resnets.1.conv2": {
+        "compute_density": 192.22884386174016
+    },
+    "up_blocks.0.resnets.0.conv1": {
+        "compute_density": 193.03411131059246
+    },
+    "up_blocks.0.resnets.0.time_emb_proj": {
+        "compute_density": 3.987538940809969
+    },
+    "up_blocks.0.resnets.0.conv2": {
+        "compute_density": 192.22884386174016
+    },
+    "up_blocks.0.resnets.0.conv_shortcut": {
+        "compute_density": 172.18943033630748
+    },
+    "up_blocks.0.resnets.1.conv1": {
+        "compute_density": 193.03411131059246
+    },
+    "up_blocks.0.resnets.1.time_emb_proj": {
+        "compute_density": 3.987538940809969
+    },
+    "up_blocks.0.resnets.1.conv2": {
+        "compute_density": 192.22884386174016
+    },
+    "up_blocks.0.resnets.1.conv_shortcut": {
+        "compute_density": 172.18943033630748
+    },
+    "up_blocks.0.resnets.2.conv1": {
+        "compute_density": 193.03411131059246
+    },
+    "up_blocks.0.resnets.2.time_emb_proj": {
+        "compute_density": 3.987538940809969
+    },
+    "up_blocks.0.resnets.2.conv2": {
+        "compute_density": 192.22884386174016
+    },
+    "up_blocks.0.resnets.2.conv_shortcut": {
+        "compute_density": 172.18943033630748
+    },
+    "up_blocks.0.upsamplers.0.conv": {
+        "compute_density": 830.6361160070502
+    },
+    "up_blocks.1.attentions.0.proj_in": {
+        "compute_density": 513.8269402319357
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.attn1.to_q": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.attn1.to_k": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.attn1.to_v": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.attn1.to_out.0": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.attn2.to_q": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.attn2.to_k": {
+        "compute_density": 233.18611987381703
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.attn2.to_v": {
+        "compute_density": 233.18611987381703
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.attn2.to_out.0": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.ff.net.0.proj": {
+        "compute_density": 706.2068965517242
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.ff.net.2": {
+        "compute_density": 682.6666666666666
+    },
+    "up_blocks.1.attentions.0.proj_out": {
+        "compute_density": 513.8269402319357
+    },
+    "up_blocks.1.attentions.1.proj_in": {
+        "compute_density": 513.8269402319357
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.attn1.to_q": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.attn1.to_k": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.attn1.to_v": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.attn1.to_out.0": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.attn2.to_q": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.attn2.to_k": {
+        "compute_density": 233.18611987381703
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.attn2.to_v": {
+        "compute_density": 233.18611987381703
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.attn2.to_out.0": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.ff.net.0.proj": {
+        "compute_density": 706.2068965517242
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.ff.net.2": {
+        "compute_density": 682.6666666666666
+    },
+    "up_blocks.1.attentions.1.proj_out": {
+        "compute_density": 513.8269402319357
+    },
+    "up_blocks.1.attentions.2.proj_in": {
+        "compute_density": 513.8269402319357
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.attn1.to_q": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.attn1.to_k": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.attn1.to_v": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.attn1.to_out.0": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.attn2.to_q": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.attn2.to_k": {
+        "compute_density": 233.18611987381703
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.attn2.to_v": {
+        "compute_density": 233.18611987381703
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.attn2.to_out.0": {
+        "compute_density": 568.8888888888889
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.ff.net.0.proj": {
+        "compute_density": 706.2068965517242
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.ff.net.2": {
+        "compute_density": 682.6666666666666
+    },
+    "up_blocks.1.attentions.2.proj_out": {
+        "compute_density": 513.8269402319357
+    },
+    "up_blocks.1.resnets.0.conv1": {
+        "compute_density": 845.8839846618259
+    },
+    "up_blocks.1.resnets.0.time_emb_proj": {
+        "compute_density": 3.987538940809969
+    },
+    "up_blocks.1.resnets.0.conv2": {
+        "compute_density": 830.6361160070502
+    },
+    "up_blocks.1.resnets.0.conv_shortcut": {
+        "compute_density": 571.145265245414
+    },
+    "up_blocks.1.resnets.1.conv1": {
+        "compute_density": 845.8839846618259
+    },
+    "up_blocks.1.resnets.1.time_emb_proj": {
+        "compute_density": 3.987538940809969
+    },
+    "up_blocks.1.resnets.1.conv2": {
+        "compute_density": 830.6361160070502
+    },
+    "up_blocks.1.resnets.1.conv_shortcut": {
+        "compute_density": 571.145265245414
+    },
+    "up_blocks.1.resnets.2.conv1": {
+        "compute_density": 840.7395394096659
+    },
+    "up_blocks.1.resnets.2.time_emb_proj": {
+        "compute_density": 3.987538940809969
+    },
+    "up_blocks.1.resnets.2.conv2": {
+        "compute_density": 830.6361160070502
+    },
+    "up_blocks.1.resnets.2.conv_shortcut": {
+        "compute_density": 550.6692160611855
+    },
+    "up_blocks.1.upsamplers.0.conv": {
+        "compute_density": 2858.8043899289864
+    },
+    "up_blocks.2.attentions.0.proj_in": {
+        "compute_density": 533.6572668112798
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.attn1.to_q": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.attn1.to_k": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.attn1.to_v": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.attn1.to_out.0": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.attn2.to_q": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.attn2.to_k": {
+        "compute_density": 213.71882905674016
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.attn2.to_v": {
+        "compute_density": 213.71882905674016
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.attn2.to_out.0": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.ff.net.0.proj": {
+        "compute_density": 890.4347826086956
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.ff.net.2": {
+        "compute_density": 819.2
+    },
+    "up_blocks.2.attentions.0.proj_out": {
+        "compute_density": 533.6572668112798
+    },
+    "up_blocks.2.attentions.1.proj_in": {
+        "compute_density": 533.6572668112798
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.attn1.to_q": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.attn1.to_k": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.attn1.to_v": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.attn1.to_out.0": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.attn2.to_q": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.attn2.to_k": {
+        "compute_density": 213.71882905674016
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.attn2.to_v": {
+        "compute_density": 213.71882905674016
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.attn2.to_out.0": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.ff.net.0.proj": {
+        "compute_density": 890.4347826086956
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.ff.net.2": {
+        "compute_density": 819.2
+    },
+    "up_blocks.2.attentions.1.proj_out": {
+        "compute_density": 533.6572668112798
+    },
+    "up_blocks.2.attentions.2.proj_in": {
+        "compute_density": 533.6572668112798
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.attn1.to_q": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.attn1.to_k": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.attn1.to_v": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.attn1.to_out.0": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.attn2.to_q": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.attn2.to_k": {
+        "compute_density": 213.71882905674016
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.attn2.to_v": {
+        "compute_density": 213.71882905674016
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.attn2.to_out.0": {
+        "compute_density": 553.5135135135135
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.ff.net.0.proj": {
+        "compute_density": 890.4347826086956
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.ff.net.2": {
+        "compute_density": 819.2
+    },
+    "up_blocks.2.attentions.2.proj_out": {
+        "compute_density": 533.6572668112798
+    },
+    "up_blocks.2.resnets.0.conv1": {
+        "compute_density": 2620.702280438728
+    },
+    "up_blocks.2.resnets.0.time_emb_proj": {
+        "compute_density": 3.981337480559876
+    },
+    "up_blocks.2.resnets.0.conv2": {
+        "compute_density": 2275.584789311408
+    },
+    "up_blocks.2.resnets.0.conv_shortcut": {
+        "compute_density": 739.082715802123
+    },
+    "up_blocks.2.resnets.1.conv1": {
+        "compute_density": 2524.967499144714
+    },
+    "up_blocks.2.resnets.1.time_emb_proj": {
+        "compute_density": 3.981337480559876
+    },
+    "up_blocks.2.resnets.1.conv2": {
+        "compute_density": 2275.584789311408
+    },
+    "up_blocks.2.resnets.1.conv_shortcut": {
+        "compute_density": 674.2011510002741
+    },
+    "up_blocks.2.resnets.2.conv1": {
+        "compute_density": 2435.980636643685
+    },
+    "up_blocks.2.resnets.2.time_emb_proj": {
+        "compute_density": 3.981337480559876
+    },
+    "up_blocks.2.resnets.2.conv2": {
+        "compute_density": 2275.584789311408
+    },
+    "up_blocks.2.resnets.2.conv_shortcut": {
+        "compute_density": 619.7917366476319
+    },
+    "up_blocks.2.upsamplers.0.conv": {
+        "compute_density": 4177.513019643673
+    },
+    "up_blocks.3.attentions.0.proj_in": {
+        "compute_density": 308.83404255319147
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.attn1.to_q": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.attn1.to_k": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.attn1.to_v": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.attn1.to_out.0": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.attn2.to_q": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.attn2.to_k": {
+        "compute_density": 183.1402911117993
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.attn2.to_v": {
+        "compute_density": 183.1402911117993
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.attn2.to_out.0": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.ff.net.0.proj": {
+        "compute_density": 549.7986577181208
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.ff.net.2": {
+        "compute_density": 496.4848484848485
+    },
+    "up_blocks.3.attentions.0.proj_out": {
+        "compute_density": 308.83404255319147
+    },
+    "up_blocks.3.attentions.1.proj_in": {
+        "compute_density": 308.83404255319147
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.attn1.to_q": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.attn1.to_k": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.attn1.to_v": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.attn1.to_out.0": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.attn2.to_q": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.attn2.to_k": {
+        "compute_density": 183.1402911117993
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.attn2.to_v": {
+        "compute_density": 183.1402911117993
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.attn2.to_out.0": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.ff.net.0.proj": {
+        "compute_density": 549.7986577181208
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.ff.net.2": {
+        "compute_density": 496.4848484848485
+    },
+    "up_blocks.3.attentions.1.proj_out": {
+        "compute_density": 308.83404255319147
+    },
+    "up_blocks.3.attentions.2.proj_in": {
+        "compute_density": 308.83404255319147
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.attn1.to_q": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.attn1.to_k": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.attn1.to_v": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.attn1.to_out.0": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.attn2.to_q": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.attn2.to_k": {
+        "compute_density": 183.1402911117993
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.attn2.to_v": {
+        "compute_density": 183.1402911117993
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.attn2.to_out.0": {
+        "compute_density": 313.86973180076626
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.ff.net.0.proj": {
+        "compute_density": 549.7986577181208
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.ff.net.2": {
+        "compute_density": 496.4848484848485
+    },
+    "up_blocks.3.attentions.2.proj_out": {
+        "compute_density": 308.83404255319147
+    },
+    "up_blocks.3.resnets.0.conv1": {
+        "compute_density": 3333.0572969820673
+    },
+    "up_blocks.3.resnets.0.time_emb_proj": {
+        "compute_density": 3.9689922480620154
+    },
+    "up_blocks.3.resnets.0.conv2": {
+        "compute_density": 2405.201472908995
+    },
+    "up_blocks.3.resnets.0.conv_shortcut": {
+        "compute_density": 455.3074027603513
+    },
+    "up_blocks.3.resnets.1.conv1": {
+        "compute_density": 3039.882986503557
+    },
+    "up_blocks.3.resnets.1.time_emb_proj": {
+        "compute_density": 3.9689922480620154
+    },
+    "up_blocks.3.resnets.1.conv2": {
+        "compute_density": 2405.201472908995
+    },
+    "up_blocks.3.resnets.1.conv_shortcut": {
+        "compute_density": 407.0443073471677
+    },
+    "up_blocks.3.resnets.2.conv1": {
+        "compute_density": 3039.882986503557
+    },
+    "up_blocks.3.resnets.2.time_emb_proj": {
+        "compute_density": 3.9689922480620154
+    },
+    "up_blocks.3.resnets.2.conv2": {
+        "compute_density": 2405.201472908995
+    },
+    "up_blocks.3.resnets.2.conv_shortcut": {
+        "compute_density": 407.0443073471677
+    },
+    "mid_block.attentions.0.proj_in": {
+        "compute_density": 166.58698539176626
+    },
+    "mid_block.attentions.0.transformer_blocks.0.attn1.to_q": {
+        "compute_density": 213.33333333333334
+    },
+    "mid_block.attentions.0.transformer_blocks.0.attn1.to_k": {
+        "compute_density": 213.33333333333334
+    },
+    "mid_block.attentions.0.transformer_blocks.0.attn1.to_v": {
+        "compute_density": 213.33333333333334
+    },
+    "mid_block.attentions.0.transformer_blocks.0.attn1.to_out.0": {
+        "compute_density": 213.33333333333334
+    },
+    "mid_block.attentions.0.transformer_blocks.0.attn2.to_q": {
+        "compute_density": 213.33333333333334
+    },
+    "mid_block.attentions.0.transformer_blocks.0.attn2.to_k": {
+        "compute_density": 233.18611987381703
+    },
+    "mid_block.attentions.0.transformer_blocks.0.attn2.to_v": {
+        "compute_density": 233.18611987381703
+    },
+    "mid_block.attentions.0.transformer_blocks.0.attn2.to_out.0": {
+        "compute_density": 213.33333333333334
+    },
+    "mid_block.attentions.0.transformer_blocks.0.ff.net.0.proj": {
+        "compute_density": 230.1123595505618
+    },
+    "mid_block.attentions.0.transformer_blocks.0.ff.net.2": {
+        "compute_density": 227.55555555555554
+    },
+    "mid_block.attentions.0.proj_out": {
+        "compute_density": 166.58698539176626
+    },
+    "mid_block.resnets.0.conv1": {
+        "compute_density": 192.22884386174016
+    },
+    "mid_block.resnets.0.time_emb_proj": {
+        "compute_density": 3.987538940809969
+    },
+    "mid_block.resnets.0.conv2": {
+        "compute_density": 192.22884386174016
+    },
+    "mid_block.resnets.1.conv1": {
+        "compute_density": 192.22884386174016
+    },
+    "mid_block.resnets.1.time_emb_proj": {
+        "compute_density": 3.987538940809969
+    },
+    "mid_block.resnets.1.conv2": {
+        "compute_density": 192.22884386174016
+    },
+    "conv_out": {
+        "compute_density": 68.63462918319128
+    }
+}

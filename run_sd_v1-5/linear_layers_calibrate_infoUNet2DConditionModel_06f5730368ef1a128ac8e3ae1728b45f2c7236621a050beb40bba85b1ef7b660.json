@@ -1,0 +1,922 @@
+{
+    "time_embedding.linear_1": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00011664628982543945,
+        "max_diff": 0.001953125
+    },
+    "time_embedding.linear_2": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010520219802856445,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.attn1.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010001659393310547,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.attn1.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.369850158691406e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.attn1.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00012373924255371094,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.attn1.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00011706352233886719,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.attn2.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010114908218383789,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.attn2.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010031461715698242,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.attn2.to_v": {
+        "mse": 1.1920928955078125e-07,
+        "mae": 0.00016295909881591797,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.attn2.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.912252426147461e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.ff.net.0.proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.0001373291015625,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.0.transformer_blocks.0.ff.net.2": {
+        "mse": 2.384185791015625e-07,
+        "mae": 0.0003070831298828125,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.attn1.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.065866470336914e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.attn1.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.185075759887695e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.attn1.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.72747802734375e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.attn1.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010436773300170898,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.attn2.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.495019912719727e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.attn2.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.47713851928711e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.attn2.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00012350082397460938,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.attn2.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.238719940185547e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.ff.net.0.proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010281801223754883,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.attentions.1.transformer_blocks.0.ff.net.2": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010865926742553711,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.0.resnets.0.time_emb_proj": {
+        "mse": 1.7881393432617188e-07,
+        "mae": 0.0002627372741699219,
+        "max_diff": 0.00390625
+    },
+    "down_blocks.0.resnets.1.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.644031524658203e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.attn1.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.125471115112305e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.attn1.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.465217590332031e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.attn1.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.268522262573242e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.attn1.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.447336196899414e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.attn2.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.077787399291992e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.attn2.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.0001004338264465332,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.attn2.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00011444091796875,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.attn2.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.244680404663086e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.ff.net.0.proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.012222290039062e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.0.transformer_blocks.0.ff.net.2": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00011074542999267578,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.attn1.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.946657180786133e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.attn1.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.22083854675293e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.attn1.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010788440704345703,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.attn1.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.41157341003418e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.attn2.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.429454803466797e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.attn2.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010919570922851562,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.attn2.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00011271238327026367,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.attn2.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.572505950927734e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.ff.net.0.proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.071826934814453e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.attentions.1.transformer_blocks.0.ff.net.2": {
+        "mse": 4.172325134277344e-07,
+        "mae": 0.0004420280456542969,
+        "max_diff": 0.00390625
+    },
+    "down_blocks.1.resnets.0.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010156631469726562,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.1.resnets.1.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.304285049438477e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.attn1.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.875131607055664e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.attn1.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.572505950927734e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.attn1.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.369850158691406e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.attn1.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.268522262573242e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.attn2.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.018182754516602e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.attn2.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010669231414794922,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.attn2.to_v": {
+        "mse": 1.1920928955078125e-07,
+        "mae": 0.00016570091247558594,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.attn2.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.982419967651367e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.ff.net.0.proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.632110595703125e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.0.transformer_blocks.0.ff.net.2": {
+        "mse": 1.7881393432617188e-07,
+        "mae": 0.00025534629821777344,
+        "max_diff": 0.002197265625
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.attn1.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.684396743774414e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.attn1.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.308887481689453e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.attn1.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.85860824584961e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.attn1.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.500980377197266e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.attn2.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.435415267944336e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.attn2.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010025501251220703,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.attn2.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00013697147369384766,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.attn2.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.191036224365234e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.ff.net.0.proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.316205978393555e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.attentions.1.transformer_blocks.0.ff.net.2": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00011074542999267578,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.resnets.0.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.894371032714844e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.2.resnets.1.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.189678192138672e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.3.resnets.0.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.821487426757812e-05,
+        "max_diff": 0.001953125
+    },
+    "down_blocks.3.resnets.1.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.298324584960938e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.0.resnets.0.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.445978164672852e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.0.resnets.1.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.262561798095703e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.0.resnets.2.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.308887481689453e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.attn1.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.559226989746094e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.attn1.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.042024612426758e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.attn1.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.22083854675293e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.attn1.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.85860824584961e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.attn2.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.393692016601562e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.attn2.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010967254638671875,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.attn2.to_v": {
+        "mse": 1.1920928955078125e-07,
+        "mae": 0.00018215179443359375,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.attn2.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.524822235107422e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.ff.net.0.proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.506940841674805e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.0.transformer_blocks.0.ff.net.2": {
+        "mse": 1.1920928955078125e-07,
+        "mae": 0.0001627206802368164,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.attn1.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.137392044067383e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.attn1.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.445978164672852e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.attn1.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.143352508544922e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.attn1.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.785724639892578e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.attn2.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.952617645263672e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.attn2.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010031461715698242,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.attn2.to_v": {
+        "mse": 1.1920928955078125e-07,
+        "mae": 0.0001659393310546875,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.attn2.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.375810623168945e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.ff.net.0.proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.721517562866211e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.1.transformer_blocks.0.ff.net.2": {
+        "mse": 2.980232238769531e-07,
+        "mae": 0.00039696693420410156,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.attn1.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.02414321899414e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.attn1.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.042024612426758e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.attn1.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.387731552124023e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.attn1.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.66191291809082e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.attn2.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.655952453613281e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.attn2.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.965896606445312e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.attn2.to_v": {
+        "mse": 1.1920928955078125e-07,
+        "mae": 0.0001647472381591797,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.attn2.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.351968765258789e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.ff.net.0.proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.644031524658203e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.attentions.2.transformer_blocks.0.ff.net.2": {
+        "mse": 4.76837158203125e-07,
+        "mae": 0.0005011558532714844,
+        "max_diff": 0.0029296875
+    },
+    "up_blocks.1.resnets.0.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.363889694213867e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.resnets.1.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.761882781982422e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.1.resnets.2.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.036064147949219e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.attn1.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.167194366455078e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.attn1.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.226799011230469e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.attn1.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.632110595703125e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.attn1.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.22083854675293e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.attn2.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.213520050048828e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.attn2.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.08970832824707e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.attn2.to_v": {
+        "mse": 1.1920928955078125e-07,
+        "mae": 0.00014352798461914062,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.attn2.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.47713851928711e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.ff.net.0.proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.775161743164062e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.0.transformer_blocks.0.ff.net.2": {
+        "mse": 1.7881393432617188e-07,
+        "mae": 0.0002472400665283203,
+        "max_diff": 0.0029296875
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.attn1.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.40561294555664e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.attn1.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.351968765258789e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.attn1.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010114908218383789,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.attn1.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.709596633911133e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.attn2.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.577108383178711e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.attn2.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.047985076904297e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.attn2.to_v": {
+        "mse": 1.1920928955078125e-07,
+        "mae": 0.00015842914581298828,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.attn2.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.810924530029297e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.ff.net.0.proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010830163955688477,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.1.transformer_blocks.0.ff.net.2": {
+        "mse": 1.7881393432617188e-07,
+        "mae": 0.00024068355560302734,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.attn1.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.475780487060547e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.attn1.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.589029312133789e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.attn1.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010102987289428711,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.attn1.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.0001062154769897461,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.attn2.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.791685104370117e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.attn2.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.697675704956055e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.attn2.to_v": {
+        "mse": 1.1920928955078125e-07,
+        "mae": 0.00016129016876220703,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.attn2.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.0001017451286315918,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.ff.net.0.proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010609626770019531,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.attentions.2.transformer_blocks.0.ff.net.2": {
+        "mse": 1.1920928955078125e-07,
+        "mae": 0.00015163421630859375,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.resnets.0.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 7.992982864379883e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.resnets.1.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.316205978393555e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.2.resnets.2.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010198354721069336,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.attn1.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.577108383178711e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.attn1.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.250640869140625e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.attn1.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00011163949966430664,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.attn1.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00011587142944335938,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.attn2.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.530782699584961e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.attn2.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.542703628540039e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.attn2.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00011622905731201172,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.attn2.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.469820022583008e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.ff.net.0.proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.0001131892204284668,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.0.transformer_blocks.0.ff.net.2": {
+        "mse": 1.1920928955078125e-07,
+        "mae": 0.0001583099365234375,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.attn1.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.606910705566406e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.attn1.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.487701416015625e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.attn1.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.0001233816146850586,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.attn1.to_out.0": {
+        "mse": 1.1920928955078125e-07,
+        "mae": 0.00014078617095947266,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.attn2.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00011515617370605469,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.attn2.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.225440979003906e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.attn2.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00013971328735351562,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.attn2.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.791685104370117e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.ff.net.0.proj": {
+        "mse": 1.1920928955078125e-07,
+        "mae": 0.0001995563507080078,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.1.transformer_blocks.0.ff.net.2": {
+        "mse": 4.172325134277344e-07,
+        "mae": 0.0004684925079345703,
+        "max_diff": 0.003173828125
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.attn1.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 7.933378219604492e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.attn1.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 7.915496826171875e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.attn1.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00011867284774780273,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.attn1.to_out.0": {
+        "mse": 1.1920928955078125e-07,
+        "mae": 0.00022172927856445312,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.attn2.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00011593103408813477,
+        "max_diff": 0.0029296875
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.attn2.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.07046890258789e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.attn2.to_v": {
+        "mse": 1.1920928955078125e-07,
+        "mae": 0.00015342235565185547,
+        "max_diff": 0.00390625
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.attn2.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 5.739927291870117e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.ff.net.0.proj": {
+        "mse": 4.172325134277344e-07,
+        "mae": 0.0004711151123046875,
+        "max_diff": 0.00390625
+    },
+    "up_blocks.3.attentions.2.transformer_blocks.0.ff.net.2": {
+        "mse": 1.1622905731201172e-05,
+        "mae": 0.0027065277099609375,
+        "max_diff": 0.01416015625
+    },
+    "up_blocks.3.resnets.0.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.535385131835938e-05,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.resnets.1.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010275840759277344,
+        "max_diff": 0.001953125
+    },
+    "up_blocks.3.resnets.2.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00011450052261352539,
+        "max_diff": 0.001953125
+    },
+    "mid_block.attentions.0.transformer_blocks.0.attn1.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.744001388549805e-05,
+        "max_diff": 0.001953125
+    },
+    "mid_block.attentions.0.transformer_blocks.0.attn1.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.553266525268555e-05,
+        "max_diff": 0.001953125
+    },
+    "mid_block.attentions.0.transformer_blocks.0.attn1.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.03010368347168e-05,
+        "max_diff": 0.001953125
+    },
+    "mid_block.attentions.0.transformer_blocks.0.attn1.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.125471115112305e-05,
+        "max_diff": 0.001953125
+    },
+    "mid_block.attentions.0.transformer_blocks.0.attn2.to_q": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.958578109741211e-05,
+        "max_diff": 0.001953125
+    },
+    "mid_block.attentions.0.transformer_blocks.0.attn2.to_k": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00010752677917480469,
+        "max_diff": 0.001953125
+    },
+    "mid_block.attentions.0.transformer_blocks.0.attn2.to_v": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00013971328735351562,
+        "max_diff": 0.00390625
+    },
+    "mid_block.attentions.0.transformer_blocks.0.attn2.to_out.0": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.578466415405273e-05,
+        "max_diff": 0.001953125
+    },
+    "mid_block.attentions.0.transformer_blocks.0.ff.net.0.proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.804964065551758e-05,
+        "max_diff": 0.001953125
+    },
+    "mid_block.attentions.0.transformer_blocks.0.ff.net.2": {
+        "mse": 5.960464477539063e-08,
+        "mae": 0.00011789798736572266,
+        "max_diff": 0.001953125
+    },
+    "mid_block.resnets.0.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 9.274482727050781e-05,
+        "max_diff": 0.001953125
+    },
+    "mid_block.resnets.1.time_emb_proj": {
+        "mse": 5.960464477539063e-08,
+        "mae": 8.559226989746094e-05,
+        "max_diff": 0.001953125
+    }
+}
