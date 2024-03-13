@@ -2,12 +2,16 @@ from skimage.metrics import structural_similarity as ssim
 import cv2
 import json
 
-def out(basic_key):
+def out(basic_key, *, basic=None):
     print(f'--'*20, basic_key, '--'*20)
     print(f'|{basic_key}| quality_level| SSIM| Conv-Count| Linear-Count|')
     print(f'|--|--|--|--|--|')
+    
     for i in range(5):
-        im1 = cv2.imread(f"{basic_key}_torch.png")
+        if basic:
+            im1 = cv2.imread(basic)
+        else:
+            im1 = cv2.imread(f"{basic_key}_torch.png")
         im2 = cv2.imread(f"{basic_key}_{i}.png")
 
         # 计算 SSIM 值
@@ -24,8 +28,12 @@ def out(basic_key):
 
     print(f'--'*20, "end", '--'*20)
 
-basic_key = "sd_v1-5"
-out(basic_key)
-basic_key = "sdxl"
-out(basic_key)
+# basic_key = "sd_v1-5"
+# out(basic_key)
+# basic_key = "sdxl"
+# out(basic_key)
+basic_key = "sd_v1-5_deepcache"
+out(basic_key, basic="sd_v1-5_torch.png")
 
+basic_key = "sdxl_deepcache"
+out(basic_key, basic="sdxl_torch.png")

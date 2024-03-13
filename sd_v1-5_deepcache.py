@@ -34,13 +34,13 @@ if args.quantize:
     # pipe.fast_unet.quantize(cache_dir=args.cache_dir, quality_level=args.quality_level, compute_density_threshold=args.compute_density_threshold)
 
 prompt = "a photo of an astronaut riding a horse on mars"
-# Warmup
-for i in range(10):
-    deepcache_output = pipe(
-        prompt, 
-        cache_interval=3, cache_layer_id=0, cache_block_id=0,
-        output_type='pil'
-    ).images[0]
+# # Warmup
+# for i in range(10):
+#     deepcache_output = pipe(
+#         prompt, 
+#         cache_interval=3, cache_layer_id=0, cache_block_id=0,
+#         output_type='pil'
+#     ).images[0]
 
 torch.manual_seed(1)
 deepcache_output = pipe(

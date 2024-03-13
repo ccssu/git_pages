@@ -9,7 +9,7 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_id", type=str, default="/share_nfs/hf_models/stable-diffusion-xl-base-1.0")
     parser.add_argument("--prompt", type=str, default="a photo of an astronaut riding a horse on mars")
-    parser.add_argument("--output_file", type=str, default="astronaut_rides_horse_onediff_quant.png")
+    parser.add_argument("--output_file", type=str, default="sdxl_deepcache_onediff_3.png")
     parser.add_argument("--seed", type=int, default=1)
     parser.add_argument("--quality_level", type=int, default=3, choices=list(range(8)))
     parser.add_argument("--compute_density_threshold", type=int, default=100)
@@ -52,6 +52,5 @@ deepcache_output = pipe(
     output_type='pil'
 ).images[0]
 
-
 # save image
-deepcache_output.save("sdxl_deepcache_onediff.png")
+deepcache_output.save(args.output_file)
