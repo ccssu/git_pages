@@ -39,20 +39,20 @@
 
 | sd_v1-5_deepcache | PyTorch                                                               | OneDiff                                                           | SSIM   |
 | ----------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------- | ------ |
-|                   | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_deepcache_torch.png) | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_torch.png)       | 0.8682 |
-| quality_level: 0  | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_deepcache_torch.png) | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_deepcache_0.png) | 0.8518 |
-| quality_level: 1  | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_deepcache_torch.png) | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_deepcache_1.png) | 0.8469 |
-| quality_level: 2  | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_deepcache_torch.png) | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_deepcache_2.png) | 0.8461 |
-| quality_level: 3  | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_deepcache_torch.png) | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_deepcache_3.png) | 0.8527 |
-| quality_level: 4  | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_deepcache_torch.png) | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_deepcache_4.png) | 0.8510 |
+|                   | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_torch.png) | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_torch.png)       | 0.8682 |
+| quality_level: 0  | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_torch.png) | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_deepcache_0.png) | 0.8518 |
+| quality_level: 1  | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_torch.png) | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_deepcache_1.png) | 0.8469 |
+| quality_level: 2  | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_torch.png) | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_deepcache_2.png) | 0.8461 |
+| quality_level: 3  | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_torch.png) | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_deepcache_3.png) | 0.8527 |
+| quality_level: 4  | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_torch.png) | ![](https://ccssu.github.io/git_pages.io/sd_v1-5_deepcache_4.png) | 0.8510 |
 
 
 
 | sdxl_deepcache | PyTorch  | OneDiff| SSIM | 
 |---|---|---|---|
-|  | ![](https://ccssu.github.io/git_pages.io/sdxl_deepcache_torch.png)|  ![](https://ccssu.github.io/git_pages.io/sdxl_torch.png) | 0.9061| 
-| quality_level: 0 | ![](https://ccssu.github.io/git_pages.io/sdxl_deepcache_torch.png)|  ![](https://ccssu.github.io/git_pages.io/sdxl_deepcache_0.png) | 0.8990 |
-| quality_level: 1 | ![](https://ccssu.github.io/git_pages.io/sdxl_deepcache_torch.png)|  ![](https://ccssu.github.io/git_pages.io/sdxl_deepcache_1.png) | 0.9008 |
-| quality_level: 2 | ![](https://ccssu.github.io/git_pages.io/sdxl_deepcache_torch.png)|  ![](https://ccssu.github.io/git_pages.io/sdxl_deepcache_2.png) | 0.9046 |
-| quality_level: 3 | ![](https://ccssu.github.io/git_pages.io/sdxl_deepcache_torch.png)|  ![](https://ccssu.github.io/git_pages.io/sdxl_deepcache_3.png) | 0.9066 |
-| quality_level: 4 | ![](https://ccssu.github.io/git_pages.io/sdxl_deepcache_torch.png)|  ![](https://ccssu.github.io/git_pages.io/sdxl_deepcache_4.png) | 0.9075 |
+|  | ![](https://ccssu.github.io/git_pages.io/sdxl_torch.png)|  ![](https://ccssu.github.io/git_pages.io/sdxl_torch.png) | 0.9061| 
+| quality_level: 0 | ![](https://ccssu.github.io/git_pages.io/sdxl_torch.png)|  ![](https://ccssu.github.io/git_pages.io/sdxl_deepcache_0.png) | 0.8990 |
+| quality_level: 1 | ![](https://ccssu.github.io/git_pages.io/sdxl_torch.png)|  ![](https://ccssu.github.io/git_pages.io/sdxl_deepcache_1.png) | 0.9008 |
+| quality_level: 2 | ![](https://ccssu.github.io/git_pages.io/sdxl_torch.png)|  ![](https://ccssu.github.io/git_pages.io/sdxl_deepcache_2.png) | 0.9046 |
+| quality_level: 3 | ![](https://ccssu.github.io/git_pages.io/sdxl_torch.png)|  ![](https://ccssu.github.io/git_pages.io/sdxl_deepcache_3.png) | 0.9066 |
+| quality_level: 4 | ![](https://ccssu.github.io/git_pages.io/sdxl_torch.png)|  ![](https://ccssu.github.io/git_pages.io/sdxl_deepcache_4.png) | 0.9075 |
